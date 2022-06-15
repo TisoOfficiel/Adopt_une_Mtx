@@ -1,4 +1,4 @@
-<h1 text="center">Adopt une Mtx<h1>
+<h1 align="center">Adopt une Mtx<h1>
 
 ## Few word about the app
   This application allows users to see the compatibility rate with another person or shows you the 5 best people likely to be compatible with you
