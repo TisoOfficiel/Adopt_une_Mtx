@@ -1,3 +1,8 @@
+<h1 text="center">Adopt une Mtx<h1>
+
+## Few word about the app
+  This application allows users to see the compatibility rate with another person or shows you the 5 best people likely to be compatible with you
+
 ## Imposed instruction
 
 ### A. Profile management
@@ -56,4 +61,12 @@ of compatibility
 - Create a connection system with username and password, allowing to know what are the online users.
 - Use JSON file format to store data.
 
-# Screenshot
+## Language Used
+
+![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+## Technologies Python Used
+
+<p> - Tkinter </p>
+
+
